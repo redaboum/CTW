@@ -1,0 +1,5 @@
+Context Weighting Trees
+
+This file contains a sequencial implementation of CTW and a parallel implementation using mpi4py
+
+To produce a result using the CTWparallel, use : mpirun -np 4 python nameoffile.py
